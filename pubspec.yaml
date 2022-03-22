@@ -2,7 +2,6 @@ name: disposable_interface
 description: standard Interface for disposable object.
 version: 0.0.1
 homepage: https://github.com/vivitainc/flutter_disposable_interface
-publish_to: "none" # Remove this line if you wish to publish to pub.dev
 
 environment:
   sdk: ">=2.15.1 <3.0.0"
